@@ -1,8 +1,8 @@
-package code;
+package Study;
 // SWEA  1979 솔루션
 import java.io.*;
 import java.util.*;
-public class swe1979 {
+public  class swe1979 {
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());

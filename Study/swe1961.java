@@ -1,4 +1,4 @@
-package code;
+package Study;
 
 import java.util.*;
 

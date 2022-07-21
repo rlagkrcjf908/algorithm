@@ -1,4 +1,4 @@
-package code;
+package Study;
 import java.util.*;
 public class swe1974 {
     public static void main(String[] args) {
