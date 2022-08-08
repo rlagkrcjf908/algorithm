@@ -1,6 +1,6 @@
-package Study.Baekjoon.Group_HW.HW1;
+package Study.Baekjoon.Group_HW.HW2;
 
-
+//투에 모스 문자열
 
 import java.util.Scanner;
 
